@@ -1,11 +1,11 @@
 # Student_Management_System_transformers
 
 # Git repository clone
-git clone <
-https://github.com/ashpaqueshaikh4236/Student_Management_System_transformers.git>
+git clone
+https://github.com/ashpaqueshaikh4236/Student_Management_System_transformers.git
 
 # Navigate to the project directory
-cd <Student_Management_System_transformers>
+cd Student_Management_System_transformers
 
 # Create a virtual environment
 python -m venv env
